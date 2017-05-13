@@ -43,7 +43,7 @@ $text['title-call_center_queues_edit']['pl'   ] = "";
 $text['title-call_center_queues_edit']['pt-br'] = "Editar fila de Call Center";
 $text['title-call_center_queues_edit']['pt-pt'] = "Editar Fila de Call Center";
 $text['title-call_center_queues_edit']['ru-ru'] = "Редактировать очередь Колл-центра";
-$text['title-call_center_queues_edit']['sv-se'] = "";
+$text['title-call_center_queues_edit']['sv-se'] = "Ändra Call Center Kö";
 $text['title-call_center_queues_edit']['uk'   ] = "";
 
 $text['title-call_center_queues_add']['en-us'] = "Add Call Center Queue";
@@ -58,7 +58,7 @@ $text['title-call_center_queues_add']['pl'   ] = "";
 $text['title-call_center_queues_add']['pt-br'] = "Adicionar filas de Call Center";
 $text['title-call_center_queues_add']['pt-pt'] = "Adicionar Fila de Call Center";
 $text['title-call_center_queues_add']['ru-ru'] = "Добавить очередь Колл-центра";
-$text['title-call_center_queues_add']['sv-se'] = "";
+$text['title-call_center_queues_add']['sv-se'] = "Lägg till Call Center Kö";
 $text['title-call_center_queues_add']['uk'   ] = "";
 
 $text['title-call_center_queues']['en-us'] = "Call Center Queues";
@@ -1063,7 +1063,7 @@ $text['label-exit_keys']['pl'   ] = "";
 $text['label-exit_keys']['pt-br'] = "";
 $text['label-exit_keys']['pt-pt'] = "";
 $text['label-exit_keys']['ru-ru'] = "";
-$text['label-exit_keys']['sv-se'] = "";
+$text['label-exit_keys']['sv-se'] = "Lämna Kod";
 $text['label-exit_keys']['uk'   ] = "";
 
 $text['description-exit_keys']['en-us'] = "Keys to quite the current queue waiting.";
@@ -1078,7 +1078,7 @@ $text['description-exit_keys']['pl'   ] = "";
 $text['description-exit_keys']['pt-br'] = "";
 $text['description-exit_keys']['pt-pt'] = "";
 $text['description-exit_keys']['ru-ru'] = "";
-$text['description-exit_keys']['sv-se'] = "";
+$text['description-exit_keys']['sv-se'] = "Kod för att lämna den väntande kö:n";
 $text['description-exit_keys']['uk'   ] = "";
 
 $text['label-call_timeout']['en-us'] = "Call Timeout";
@@ -1123,7 +1123,7 @@ $text['label-agent_password']['pl'   ] = "Środek Hasło";
 $text['label-agent_password']['pt-br'] = "Agente de Senha";
 $text['label-agent_password']['pt-pt'] = "Agente Senha";
 $text['label-agent_password']['ru-ru'] = "Пароль оператора";
-$text['label-agent_password']['sv-se'] = "Środek Hasło";
+$text['label-agent_password']['sv-se'] = "Agent Lösenord";
 $text['label-agent_password']['uk'   ] = "";
 
 $text['label-agent_name']['en-us'] = "Agent Name";
