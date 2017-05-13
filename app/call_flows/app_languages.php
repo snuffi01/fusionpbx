@@ -174,7 +174,7 @@ $text['label-call_flow_alternate_label']['pl'   ] = "Alternatywna etykieta";
 $text['label-call_flow_alternate_label']['pt-br'] = "Etqueta alternativa";
 $text['label-call_flow_alternate_label']['pt-pt'] = "Etiqueta Alternativa";
 $text['label-call_flow_alternate_label']['ru-ru'] = "Название альтернативного направления";
-$text['label-call_flow_alternate_label']['sv-se'] = "Alternativ Etikett";
+$text['label-call_flow_alternate_label']['sv-se'] = "Alternativ Namn";
 $text['label-call_flow_alternate_label']['uk'   ] = "альтернативні етикетки";
 
 $text['label-call_flow_alternate_destination']['en-us'] = "Alternate Destination";
@@ -222,7 +222,7 @@ $text['label-call_flow_alternate_sound']['pl'   ] = "Alternatywny dźwięk";
 $text['label-call_flow_alternate_sound']['pt-br'] = "Som alternativo";
 $text['label-call_flow_alternate_sound']['pt-pt'] = "som alternativo";
 $text['label-call_flow_alternate_sound']['ru-ru'] = "Альтернативный звук";
-$text['label-call_flow_alternate_sound']['sv-se'] = "alternativt ljud";
+$text['label-call_flow_alternate_sound']['sv-se'] = "Alternativt ljud";
 $text['label-call_flow_alternate_sound']['uk'   ] = "альтернативний звук";
 
 $text['label-call_flow_description']['en-us'] = "Description";
@@ -366,7 +366,7 @@ $text['description-call_flow_destination_label']['pl'   ] = "Wprowadź opis dest
 $text['description-call_flow_destination_label']['pt-br'] = "Insira o destino.";
 $text['description-call_flow_destination_label']['pt-pt'] = "Introduza o destino.";
 $text['description-call_flow_destination_label']['ru-ru'] = "Введите название направления.";
-$text['description-call_flow_destination_label']['sv-se'] = "Ange Destinations Etiketten.";
+$text['description-call_flow_destination_label']['sv-se'] = "Ange Destinations Namnet.";
 $text['description-call_flow_destination_label']['uk'   ] = "Введіть мітку призначення.";
 
 $text['description-call_flow_destination']['en-us'] = "Select the destination.";
@@ -398,7 +398,7 @@ $text['description-call_flow_context']['pl'   ] = "Wprowadź kontekst";
 $text['description-call_flow_context']['pt-br'] = "Insira o contexto.";
 $text['description-call_flow_context']['pt-pt'] = "Introduza o contexto";
 $text['description-call_flow_context']['ru-ru'] = "Введите контекст.";
-$text['description-call_flow_context']['sv-se'] = "Ange Context.";
+$text['description-call_flow_context']['sv-se'] = "Ange context.";
 $text['description-call_flow_context']['uk'   ] = "Введіть контекст.";
 
 $text['description-call_flows']['en-us'] = "Direct calls between two destinations by calling a feature code.";
@@ -430,7 +430,7 @@ $text['description-call_flow_alternate_label']['pl'   ] = "Wprowadź alternatywn
 $text['description-call_flow_alternate_label']['pt-br'] = "Insira um destino alternativo.";
 $text['description-call_flow_alternate_label']['pt-pt'] = "Introduza um destino alternativo.";
 $text['description-call_flow_alternate_label']['ru-ru'] = "Введите название альтернативного направления.";
-$text['description-call_flow_alternate_label']['sv-se'] = "Ange den alternativa destinations etiketten.";
+$text['description-call_flow_alternate_label']['sv-se'] = "Ange den alternativa destinations namnet.";
 $text['description-call_flow_alternate_label']['uk'   ] = "Введіть альтернативний ярлик призначення.";
 
 $text['description-call_flow_alternate_destination']['en-us'] = "Select the alternate destination.";
@@ -510,7 +510,7 @@ $text['recordings']['pl'   ] = "nagrania";
 $text['recordings']['pt-br'] = "Gravações";
 $text['recordings']['pt-pt'] = "gravações";
 $text['recordings']['ru-ru'] = "Записи";
-$text['recordings']['sv-se'] = "inspelningar";
+$text['recordings']['sv-se'] = "Inspelningar";
 $text['recordings']['uk'   ] = "записи";
 
 $text['miscellaneous']['en-us'] = "Miscellaneous";
