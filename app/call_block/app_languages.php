@@ -350,7 +350,7 @@ $text['label-hold']['pl'   ] = "";
 $text['label-hold']['pt-br'] = "Espera";
 $text['label-hold']['pt-pt'] = "";
 $text['label-hold']['ru-ru'] = "Удержание";
-$text['label-hold']['sv-se'] = "";
+$text['label-hold']['sv-se'] = "Vänt";
 $text['label-hold']['uk'   ] = "";
 
 $text['label-voicemail']['en-us'] = "Voicemail";
