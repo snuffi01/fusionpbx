@@ -670,7 +670,7 @@ $text['ckeck-true']['pl-pl'] = "";
 $text['ckeck-true']['pt-br'] = "Sim";
 $text['ckeck-true']['pt-pt'] = "Sim";
 $text['ckeck-true']['ru-ru'] = "Да";
-$text['ckeck-true']['sv-se'] = "";
+$text['ckeck-true']['sv-se'] = "Sann";
 $text['ckeck-true']['uk-ua'] = "";
 
 $text['ckeck-simultaneous']['en-us'] = "";
@@ -686,7 +686,7 @@ $text['ckeck-simultaneous']['pl-pl'] = "";
 $text['ckeck-simultaneous']['pt-br'] = "Simultâneo";
 $text['ckeck-simultaneous']['pt-pt'] = "simultâneo";
 $text['ckeck-simultaneous']['ru-ru'] = "одновременно";
-$text['ckeck-simultaneous']['sv-se'] = "";
+$text['ckeck-simultaneous']['sv-se'] = "Samtidig";
 $text['ckeck-simultaneous']['uk-ua'] = "";
 
 $text['ckeck-sequence']['en-us'] = "";
@@ -702,7 +702,7 @@ $text['ckeck-sequence']['pl-pl'] = "";
 $text['ckeck-sequence']['pt-br'] = "Sequência";
 $text['ckeck-sequence']['pt-pt'] = "sequência";
 $text['ckeck-sequence']['ru-ru'] = "последовательно";
-$text['ckeck-sequence']['sv-se'] = "";
+$text['ckeck-sequence']['sv-se'] = "Sekvens";
 $text['ckeck-sequence']['uk-ua'] = "";
 
 $text['ckeck-false']['en-us'] = "";
@@ -718,7 +718,7 @@ $text['ckeck-false']['pl-pl'] = "";
 $text['ckeck-false']['pt-br'] = "Não";
 $text['ckeck-false']['pt-pt'] = "Não";
 $text['ckeck-false']['ru-ru'] = "Нет";
-$text['ckeck-false']['sv-se'] = "";
+$text['ckeck-false']['sv-se'] = "Falsk";
 $text['ckeck-false']['uk-ua'] = "";
 
 $text['check-true']['en-us'] = "True";
@@ -750,7 +750,7 @@ $text['check-simultaneous']['pl-pl'] = "jednoczesne";
 $text['check-simultaneous']['pt-br'] = "Simultâneo";
 $text['check-simultaneous']['pt-pt'] = "";
 $text['check-simultaneous']['ru-ru'] = "";
-$text['check-simultaneous']['sv-se'] = "Samtidiga ";
+$text['check-simultaneous']['sv-se'] = "Samtidiga";
 $text['check-simultaneous']['uk-ua'] = "одночасно";
 
 $text['check-sequence']['en-us'] = "sequence";
@@ -766,7 +766,7 @@ $text['check-sequence']['pl-pl'] = "kolejność";
 $text['check-sequence']['pt-br'] = "Sequência";
 $text['check-sequence']['pt-pt'] = "";
 $text['check-sequence']['ru-ru'] = "";
-$text['check-sequence']['sv-se'] = "sekvens ";
+$text['check-sequence']['sv-se'] = "sekvens";
 $text['check-sequence']['uk-ua'] = "послідовно";
 
 $text['check-false']['en-us'] = "False";
@@ -782,7 +782,7 @@ $text['check-false']['pl-pl'] = "Nie";
 $text['check-false']['pt-br'] = "Não";
 $text['check-false']['pt-pt'] = "";
 $text['check-false']['ru-ru'] = "Нет";
-$text['check-false']['sv-se'] = "Falsk ";
+$text['check-false']['sv-se'] = "Falsk";
 $text['check-false']['uk-ua'] = "Ні";
 
 $text['button-view_all']['en-us'] = "View All";
